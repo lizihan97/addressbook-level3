@@ -92,7 +92,7 @@ Use case ends.
 
 > Use case ends
 
-3a. The given index is invalid
+3a. The given tag is invalid
 
 > 3a1. AddressBook shows an error message <br>
 
@@ -103,8 +103,9 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
-5. Should show warning message if a person to add already exists.
-6. Should show warning message if the contact information is invalid.
+5. Should be able to respond for each command within 1 seconds.
+6. Should have secured network connection.
+7. Users should log in before using the system.
 
 ## Appendix D : Glossary
 
